@@ -8,6 +8,5 @@ between hardware and software, engineering and science, practice and theory,
 high-level system architecture and low-level component details.
 
 I use free and open software and hardware whenever possible and encourage others
-to do the same.
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=peterpolidoro&show_icons=true)
+to do the same. Some of my favorite free software includes Emacs, Guix, Debian,
+KiCAD, and FreeCAD.
