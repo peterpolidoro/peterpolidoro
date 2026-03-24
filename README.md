@@ -1,6 +1,6 @@
 ## Peter Polidoro
 
-I build robotics and automate experiments for the scientists studying animal
+I build mechatronics and automate experiments for the scientists studying animal
 brains at Janelia Research Campus. Examples of these experiments include odor,
 alcohol, visual, and audio assays for fruit flies, camera tracking systems for
 zebrafish and larvae, haptic feedback joysticks for mice, and automated sensor
